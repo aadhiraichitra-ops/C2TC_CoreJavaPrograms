@@ -5,7 +5,7 @@ public class Rectangle extends Shape{
 
 		public Rectangle() {
 			this.width = 5.0f;
-			this.height = 22.0f;
+			this.height = 222.0f;
 		}
 
 		public Rectangle(float width, float height) {
